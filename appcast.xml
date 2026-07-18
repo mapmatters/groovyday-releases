@@ -3,6 +3,25 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.5</title>
+      <pubDate>Sat, 19 Jul 2026 11:00:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.5</h2>
+        <ul>
+          <li><b>New visualizer: Waves</b> — a palette-tinted seascape. Bass drives the swell, drums send whitecap crashes rolling in from the horizon, treble sparkles on the water. As light on the GPU as Ambient.</li>
+          <li>Hover controls are now clearly visible on any artwork (white icons on dark chips)</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.5.zip"
+        sparkle:version="7"
+        sparkle:shortVersionString="0.2.5"
+        sparkle:edSignature="njKPBty+ZA6HySfEGZ9A13gKx+hvLZhcWi+ImYbSKp+3r8vKO+QOwOlPq5Fz8vsOAm2KHqJpekauGoZHRIM5BQ=="
+        length="1577066"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.4</title>
       <pubDate>Sat, 19 Jul 2026 10:05:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
