@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.3</title>
+      <pubDate>Sat, 19 Jul 2026 09:30:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.3</h2>
+        <ul>
+          <li>Right-click anywhere on the visualizer for the full app menu — modes, visualizer, source, lyrics on/off, track info on/off, Settings, updates, Quit</li>
+          <li>Lyrics and track-info toggles for the current mode, right in the menu</li>
+          <li>Update checks run at every launch</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.3.zip"
+        sparkle:version="5"
+        sparkle:shortVersionString="0.2.3"
+        sparkle:edSignature="jnOUzXKSmCeDXeUF7phK6SiDrXD0B3H4RPJq9H6IenZ06y0rt3/6DzgzphycJu3j/5FN9iAK7J9tKdbXytL3AA=="
+        length="1570089"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.2</title>
       <pubDate>Sat, 19 Jul 2026 08:50:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
