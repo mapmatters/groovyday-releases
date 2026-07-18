@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.6</title>
+      <pubDate>Sat, 19 Jul 2026 11:40:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.6</h2>
+        <ul>
+          <li>Desktop mode actually renders now — the visualizer paints your wallpaper as designed (an occlusion bug paused it forever)</li>
+          <li>Fullscreen hides the menu bar for distraction-free listening; slide the cursor to the top edge to reveal it</li>
+          <li>Overlay text and controls are always white on dark scrims — readable on any artwork or scene</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.6.zip"
+        sparkle:version="8"
+        sparkle:shortVersionString="0.2.6"
+        sparkle:edSignature="xYanetsJhVHeKkuvOq+3d1iUYKBi1LUu395JzQ3ABFLRRA0Jh9aIHgmXVpUMpx6Pp7wZU0UUfnC4Pe31+RwsCg=="
+        length="1578164"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.5</title>
       <pubDate>Sat, 19 Jul 2026 11:00:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
