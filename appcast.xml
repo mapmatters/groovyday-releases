@@ -3,6 +3,24 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.7</title>
+      <pubDate>Sat, 19 Jul 2026 12:10:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.7</h2>
+        <ul>
+          <li><b>Waves is now a surfer's wave</b>: a breaking wave with a bass-driven barrel curl, foam lip, Hokusai-style face ribs, and spray flying off the crest on drum hits — same featherweight GPU cost</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.7.zip"
+        sparkle:version="9"
+        sparkle:shortVersionString="0.2.7"
+        sparkle:edSignature="fOBVnUJ2vPZXbv29TRlGpAmKmu9zdfGWVQeBmJOdEvD+TgCCFjL/l8R2c653xuQWL/D44QvdvFz1/kxXFvNeAA=="
+        length="1578848"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.6</title>
       <pubDate>Sat, 19 Jul 2026 11:40:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
