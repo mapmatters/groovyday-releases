@@ -3,6 +3,25 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.2</title>
+      <pubDate>Sat, 19 Jul 2026 08:50:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.2</h2>
+        <ul>
+          <li>Update checks now run at every launch (previously only once a day), so new releases are noticed right away</li>
+          <li>Full app menu inside the window: hover the mode-switcher or right-click the visualizer for Settings, Check for Updates, and Quit — works even when the menu bar icon is hidden by the MacBook notch</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.2.zip"
+        sparkle:version="4"
+        sparkle:shortVersionString="0.2.2"
+        sparkle:edSignature="qbjrR4qe9PxWJrIo/yRlDAM8iA3U8AAVNkILfiK+ARnRtgg12gEQH3oBpG048fTL41kvnAIJCMw78Q1E2X+8BQ=="
+        length="1569665"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.1</title>
       <pubDate>Sat, 19 Jul 2026 08:20:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
