@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.8</title>
+      <pubDate>Sat, 19 Jul 2026 12:50:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.8</h2>
+        <ul>
+          <li><b>Desktop mode works.</b> Two stacked bugs fixed: an invisible modal dialog was freezing the app when entering desktop mode, and the display-link API failing silently on macOS 26 meant no frames were drawn — rendering now has a guaranteed fallback pacer</li>
+          <li><b>Waves rebuilt from scratch</b>: three parallax wave trains roll continuously; breakers spawn on drum hits, travel across the frame and decay — no more centered mound</li>
+          <li>Desktop-mode explainer is now a small non-blocking panel</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.8.zip"
+        sparkle:version="10"
+        sparkle:shortVersionString="0.2.8"
+        sparkle:edSignature="bq70CUKGOyQ/lZs2Pw7fWxt1zoktVKVOydp5UEOuEUhJR6Q/7vPE06ZY1n2GROmgzNsXe96dPSZyF/NJLLa5Dw=="
+        length="1587148"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.7</title>
       <pubDate>Sat, 19 Jul 2026 12:10:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
