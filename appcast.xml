@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Groovyday</title>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Sat, 19 Jul 2026 07:30:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.0</h2>
+        <ul>
+          <li>First public build: five visualizers (Bars, Halo, Ambient, Particles, Skyline)</li>
+          <li>Time-synced lyrics with per-mode toggles and timing control</li>
+          <li>Four window modes with animated transitions, global hotkeys</li>
+          <li>Music &amp; Spotify metadata, transport, and scrubbing</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.0.zip"
+        sparkle:version="2"
+        sparkle:shortVersionString="0.2.0"
+        sparkle:edSignature="e1dvaRorgTJHFlzQtx4QHFr5xyrAkscVzrk7V3cCND7SOffGM25+eVFtrBtMgjzGAEmCwRANOu0DhXuBOMIsAQ=="
+        length="1567325"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
