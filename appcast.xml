@@ -3,25 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.4.0 beta (build 22)</title>
-      <pubDate>Sun, 19 Jul 2026 18:29:41 +0900</pubDate>
+      <title>0.4.1 beta (build 23)</title>
+      <pubDate>Sun, 19 Jul 2026 19:53:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.4.0 private beta</h2>
+        <h2>Groovyday 0.4.1 private beta</h2>
         <ul>
-          <li>Dockscape replaces Desktop with a full-width scene rising from behind the system Dock</li>
-          <li>The strip follows Dock height at an adjustable 1.5×, 1.75×, or 2× and rotates for side Docks</li>
-          <li>Waves, Halo, Particles, and Skyline receive compositions tuned for the shallow architectural canvas</li>
-          <li>Existing Desktop preferences and the ⌃⌥3 shortcut migrate automatically</li>
+          <li>New Dock Wings place artwork and playback on the left and visualizer controls on the right</li>
+          <li>The two wings shrink independently as the centered Dock fills, without covering its icons</li>
+          <li>Drag the horizon between Dock Wings and Dockscape; lift Dockscape upward to detach into Floating</li>
+          <li>Drag a Floating window back to the Dock edge to reconnect it to the visual continuum</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.0.zip"
-        sparkle:version="22"
-        sparkle:shortVersionString="0.4.0"
-        sparkle:edSignature="TgHa+wpWe9cBZ+0LQBUqFxLxO8EMqKg6VGEgs5AYX92AnPLxRxlvn8K02LYBF5IM18BI/MZ1vFBkdA1Q9+xTAQ=="
-        length="1607738"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.1.zip"
+        sparkle:version="23"
+        sparkle:shortVersionString="0.4.1"
+        sparkle:edSignature="KXVEoqOjf/sf8Mpq779BeezBTJvXaJw8W1/mMeHQuF4Si0hkqtaBi7rNeEP5ndRqSau0QlbduYGrONyr/uwrBw=="
+        length="1628303"
         type="application/octet-stream"/>
     </item>
   </channel>

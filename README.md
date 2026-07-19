@@ -4,7 +4,7 @@ This `beta` branch is the opt-in personal test channel for **Groovyday**, a
 macOS system-audio music visualizer. It does not change the stable feed on
 `main`.
 
-**Download:** [Groovyday 0.4.0 beta DMG](releases/Groovyday-0.4.0.dmg)
+**Download:** [Groovyday 0.4.1 beta DMG](releases/Groovyday-0.4.1.dmg)
 
 The current beta is Sparkle-signed but not yet Apple-notarized. It is intended
 only for the developer's own Macs while Developer ID enrollment is completed.
