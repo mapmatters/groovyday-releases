@@ -3,25 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.4.1 beta (build 23)</title>
-      <pubDate>Sun, 19 Jul 2026 19:53:00 +0900</pubDate>
+      <title>0.4.2 beta (build 24)</title>
+      <pubDate>Sun, 19 Jul 2026 21:51:48 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.4.1 private beta</h2>
+        <h2>Groovyday 0.4.2 private beta</h2>
         <ul>
-          <li>New Dock Wings place artwork and playback on the left and visualizer controls on the right</li>
-          <li>The two wings shrink independently as the centered Dock fills, without covering its icons</li>
-          <li>Drag the horizon between Dock Wings and Dockscape; lift Dockscape upward to detach into Floating</li>
-          <li>Drag a Floating window back to the Dock edge to reconnect it to the visual continuum</li>
+          <li>Artwork, playback, visualizer controls, and right-click menus now persist throughout Dockscape</li>
+          <li>The expanded scene is softly opaque at Dock level and fades transparent into applications above</li>
+          <li>Synced lyrics can appear just above the Dock without fading with the Metal scene</li>
+          <li>Waves gain denser audio-led motion; Skyline distributes musical response across the full width</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.1.zip"
-        sparkle:version="23"
-        sparkle:shortVersionString="0.4.1"
-        sparkle:edSignature="KXVEoqOjf/sf8Mpq779BeezBTJvXaJw8W1/mMeHQuF4Si0hkqtaBi7rNeEP5ndRqSau0QlbduYGrONyr/uwrBw=="
-        length="1628303"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.2.zip"
+        sparkle:version="24"
+        sparkle:shortVersionString="0.4.2"
+        sparkle:edSignature="YsOZD8rSfKFfvpH/oaUXimRoRcA0qtsw3gfG66kjwXIeotUZLWoFM5KxuCg5ZWUQx66E6dC8iowwYK63nSkmCg=="
+        length="1635065"
         type="application/octet-stream"/>
     </item>
   </channel>
