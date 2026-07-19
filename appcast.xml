@@ -3,23 +3,24 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.4.5 beta (build 27)</title>
-      <pubDate>Mon, 20 Jul 2026 05:31:37 +0900</pubDate>
+      <title>0.4.6 beta (build 28)</title>
+      <pubDate>Mon, 20 Jul 2026 05:43:47 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.4.5 private beta</h2>
+        <h2>Groovyday 0.4.6 private beta</h2>
         <ul>
-          <li>Mode and Visualizer controls now share the same white treatment as the playback controls</li>
-          <li>macOS menu tint no longer overrides the right-wing icon color</li>
+          <li>Scene Opacity and Top-edge Fade controls now tune both Dock Wings and Dockscape live</li>
+          <li>Dock Wings now dissolve smoothly into the wallpaper instead of ending at a hard upper edge</li>
+          <li>Dock accessory backgrounds, outlines, control trays, and button circles no longer cover the visualizer</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.5.zip"
-        sparkle:version="27"
-        sparkle:shortVersionString="0.4.5"
-        sparkle:edSignature="rcMxvluabYv9TdHC2XR3fEeH108/O1R0XXqdJLOx2wl1kwKAR8Cd4UdmI6lDRc88kW9ucrFzWLY+B5BV26G1DA=="
-        length="1641936"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.6.zip"
+        sparkle:version="28"
+        sparkle:shortVersionString="0.4.6"
+        sparkle:edSignature="lIeGDiHhvTE/mkIB42hsrR3qDXKt5HcUJq1NyT8bqXmpDmL5TkBJ/eXv5qkToPLZThZaHM8S+FcYyc8oICoTBA=="
+        length="1646123"
         type="application/octet-stream"/>
     </item>
   </channel>
