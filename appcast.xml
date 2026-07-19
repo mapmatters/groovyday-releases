@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.7</title>
+      <pubDate>Sun, 19 Jul 2026 12:27:30 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.7 — one scene, any size</h2>
+        <ul>
+          <li>Your selected visualizer now follows you across Compact, Floating, Desktop, and Fullscreen; changing mode expands or contracts the same scene</li>
+          <li>Appearance settings now contain one clear Visualizer picker instead of four mode-specific choices</li>
+          <li>Existing preferences migrate from the last-used mode, with the Floating selection preserved as the fallback</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.7.zip"
+        sparkle:version="19"
+        sparkle:shortVersionString="0.3.7"
+        sparkle:edSignature="0/NvmU9JyCCwAhlFNyAD65XoLG1vR6em2msVS3IXY2ZR0c+q2x6YD8TVMFdCSGBisquwBB/NJPcnfBhGseBaCA=="
+        length="1596309"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.6</title>
       <pubDate>Sun, 19 Jul 2026 12:22:42 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
