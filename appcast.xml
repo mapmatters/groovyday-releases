@@ -3,25 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.3.9 beta (build 21)</title>
-      <pubDate>Sun, 19 Jul 2026 17:52:54 +0900</pubDate>
+      <title>0.4.0 beta (build 22)</title>
+      <pubDate>Sun, 19 Jul 2026 18:29:41 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.3.9 private beta</h2>
+        <h2>Groovyday 0.4.0 private beta</h2>
         <ul>
-          <li>Automatic Compact placement now means the roomier left or right wing beside a bottom Dock</li>
-          <li>Fullscreen Mode and Visualizer controls now live inside the existing player HUD</li>
-          <li>Dock re-anchoring no longer accidentally saves an old corner placement</li>
-          <li>Previous, play/pause, and next controls in Compact mode</li>
+          <li>Dockscape replaces Desktop with a full-width scene rising from behind the system Dock</li>
+          <li>The strip follows Dock height at an adjustable 1.5×, 1.75×, or 2× and rotates for side Docks</li>
+          <li>Waves, Halo, Particles, and Skyline receive compositions tuned for the shallow architectural canvas</li>
+          <li>Existing Desktop preferences and the ⌃⌥3 shortcut migrate automatically</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.3.9.zip"
-        sparkle:version="21"
-        sparkle:shortVersionString="0.3.9"
-        sparkle:edSignature="hHMwxv9iBkcJlRmh/Jyjm27gmmQd9NpRPT7WL/e31edvRNHpqEmQ9bVsOHbSunxWaWuSc2T9mCOZyuWXcdiiBg=="
-        length="1613636"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.0.zip"
+        sparkle:version="22"
+        sparkle:shortVersionString="0.4.0"
+        sparkle:edSignature="TgHa+wpWe9cBZ+0LQBUqFxLxO8EMqKg6VGEgs5AYX92AnPLxRxlvn8K02LYBF5IM18BI/MZ1vFBkdA1Q9+xTAQ=="
+        length="1607738"
         type="application/octet-stream"/>
     </item>
   </channel>
