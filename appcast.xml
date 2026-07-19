@@ -3,6 +3,27 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.2.9</title>
+      <pubDate>Sat, 19 Jul 2026 13:30:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.2.9 — Waves refined</h2>
+        <ul>
+          <li>Breakers now travel the full width of the sea, melting away only at the far edge</li>
+          <li>Sun disc replaced with a wide, breathing horizon light</li>
+          <li>Spray is finer and falls under gravity instead of fountaining uniformly</li>
+          <li>Softer shading with per-wave grain texture — every wave looks different; the sea keeps rolling on its own even in silence, and sound hits it like wind</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.2.9.zip"
+        sparkle:version="11"
+        sparkle:shortVersionString="0.2.9"
+        sparkle:edSignature="wjkKWmG5YFpGptWnEcuKxNgHorWO2Z+PNSFagOgrp04eL1jXZ26GccyBYl8pF1KwMfHs5SQBmC/FjoAf3Qp6Cg=="
+        length="1587458"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.8</title>
       <pubDate>Sat, 19 Jul 2026 12:50:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
