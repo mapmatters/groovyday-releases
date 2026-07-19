@@ -3,6 +3,25 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.2</title>
+      <pubDate>Sat, 19 Jul 2026 15:10:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.2 — a fuller sea</h2>
+        <ul>
+          <li>Sub-waves: smaller, faster crests spawned by secondary sounds — mid/treble transients and hits that arrive while the main breakers are busy. Dense music fills the sea with layered cross-motion; sparse music stays calm</li>
+          <li>The waterline is no longer a line: noise-eroded edges, feathered contact, and a mist band of detached droplets above every surface</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.2.zip"
+        sparkle:version="14"
+        sparkle:shortVersionString="0.3.2"
+        sparkle:edSignature="2AIbIF5u0sxcn4V2eNqUcowiVXlbbKKfYehPie+6IN0oQZL4vssbLEhS0H4uk4QCtZjyOdCbUDqjQDyVw4b4BQ=="
+        length="1589392"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.1</title>
       <pubDate>Sat, 19 Jul 2026 14:40:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
