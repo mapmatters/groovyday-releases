@@ -3,25 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.4.3 beta (build 25)</title>
-      <pubDate>Sun, 19 Jul 2026 22:09:01 +0900</pubDate>
+      <title>0.4.4 beta (build 26)</title>
+      <pubDate>Sun, 19 Jul 2026 22:20:01 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.4.3 private beta</h2>
+        <h2>Groovyday 0.4.4 private beta</h2>
         <ul>
-          <li>The Dockscape drag grip is hidden until hover and stays reachable when the Dock auto-hides</li>
-          <li>Dockscape now opens at 2.5× Dock height, with a clearly expanded 2.25–3× range</li>
-          <li>Cover-derived palettes become brighter and more saturated with musical energy without introducing random hues</li>
-          <li>Every visualizer retains subtle ambient motion in silence, with clearer Particles and Skyline baselines</li>
+          <li>Dockscape height is now continuously adjustable from 2× to 5× the Dock height</li>
+          <li>A precise 0.05-step slider replaces the former preset-only height picker</li>
+          <li>Dragging Dockscape's top-edge grip preserves the exact resulting height</li>
+          <li>An intentional pull beyond the maximum still detaches Dockscape into Floating mode</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.3.zip"
-        sparkle:version="25"
-        sparkle:shortVersionString="0.4.3"
-        sparkle:edSignature="KHW0dYr6KBqHSXAOktg8k2E6zlons+jNQzDo0GlW6/sff3IZYZbylnVM4aFOemkJra51LF8UEVV/8vBUqXPBBg=="
-        length="1637540"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.4.zip"
+        sparkle:version="26"
+        sparkle:shortVersionString="0.4.4"
+        sparkle:edSignature="gseReuaD5d+ssfxHZCVv8hB83T22oJ2zV6NQw8d7HNT6Za8XEQNBjTJPupWWSkw7viNLXk0bBpIqi3a1tlVoDQ=="
+        length="1639654"
         type="application/octet-stream"/>
     </item>
   </channel>
