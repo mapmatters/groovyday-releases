@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.3</title>
+      <pubDate>Sun, 19 Jul 2026 11:59:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.3 — a universe in motion</h2>
+        <ul>
+          <li>Particles no longer collapse into a central gravity well: stars drift through layered orbital currents and palette-tinted nebulae, while beats launch travelers that cross the sky</li>
+          <li>Mode and Visualizer controls remain visible in Compact and Floating modes, including during silence and when track info is hidden</li>
+          <li>Desktop mode explicitly re-orders above Finder's wallpaper after switching, fixing cases where the mode changed but the visualizer did not appear</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.3.zip"
+        sparkle:version="15"
+        sparkle:shortVersionString="0.3.3"
+        sparkle:edSignature="zeh8MIcqEXd4AAiSFWHdzR6jGR+YHbJcFMDrpHaAjNjf0jMAo7suFwcu1Z6a/LnoUwxYriPxlsnsun9GQKlcCw=="
+        length="1589433"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.2</title>
       <pubDate>Sat, 19 Jul 2026 15:10:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
