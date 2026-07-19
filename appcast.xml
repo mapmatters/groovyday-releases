@@ -3,6 +3,24 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.1</title>
+      <pubDate>Sat, 19 Jul 2026 14:40:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.1</h2>
+        <ul>
+          <li>"Show Track Info" now means what it says: with the toggle on, the info bar stays visible in floating mode (like lyrics) instead of hiding when the cursor leaves; with it off, hovering still reveals it temporarily</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.1.zip"
+        sparkle:version="13"
+        sparkle:shortVersionString="0.3.1"
+        sparkle:edSignature="M84KwaqUsRfbJ+Hk9KklAtBDGsRi/jRmxMhIKfaLF4bpIzGWCLmyu1URTBM6wdJ5hJOvfflUOk9NNzFFX2I/Cw=="
+        length="1588195"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.0</title>
       <pubDate>Sat, 19 Jul 2026 14:10:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
