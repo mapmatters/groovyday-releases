@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.4</title>
+      <pubDate>Sun, 19 Jul 2026 12:04:36 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.4 — album colors, art directed</h2>
+        <ul>
+          <li>Every visualizer now receives an editorial three-tone palette: the cover's visual ground, a substantial supporting tone, and an intentional counterpoint</li>
+          <li>Counterpoints are selected by presence, hue relationship, value, and restrained chroma—tiny logo colors and fluorescent pixels can no longer dictate the scene</li>
+          <li>Two-tone covers preserve their real contrasting color; monochrome covers receive a quiet, deterministic harmony instead of random RGB color</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.4.zip"
+        sparkle:version="16"
+        sparkle:shortVersionString="0.3.4"
+        sparkle:edSignature="AFT+0aiiDtT9ctJiC8pwtCadxBHKlQjdXwiiljQomKlzwLW54sN1rX15GWZbxOdw69jPsByTuRp7VE0PAMOoDQ=="
+        length="1591165"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.3</title>
       <pubDate>Sun, 19 Jul 2026 11:59:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
