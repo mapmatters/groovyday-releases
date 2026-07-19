@@ -3,24 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.4.6 beta (build 28)</title>
-      <pubDate>Mon, 20 Jul 2026 05:43:47 +0900</pubDate>
+      <title>0.4.7 beta (build 29)</title>
+      <pubDate>Mon, 20 Jul 2026 06:03:37 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.4.6 private beta</h2>
+        <h2>Groovyday 0.4.7 private beta</h2>
         <ul>
-          <li>Scene Opacity and Top-edge Fade controls now tune both Dock Wings and Dockscape live</li>
-          <li>Dock Wings now dissolve smoothly into the wallpaper instead of ending at a hard upper edge</li>
-          <li>Dock accessory backgrounds, outlines, control trays, and button circles no longer cover the visualizer</li>
+          <li>The synthetic 120-BPM preview is now restricted to onboarding and never masks real silence afterward</li>
+          <li>Every visualizer shares one calm idle state with only an eight-percent soft-wind motion floor</li>
+          <li>Paused or stalled audio releases the final beat instead of holding an energetic frame indefinitely</li>
+          <li>Wave breakers, particle travelers, and peak caps now settle cleanly when music stops</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.6.zip"
-        sparkle:version="28"
-        sparkle:shortVersionString="0.4.6"
-        sparkle:edSignature="lIeGDiHhvTE/mkIB42hsrR3qDXKt5HcUJq1NyT8bqXmpDmL5TkBJ/eXv5qkToPLZThZaHM8S+FcYyc8oICoTBA=="
-        length="1646123"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.7.zip"
+        sparkle:version="29"
+        sparkle:shortVersionString="0.4.7"
+        sparkle:edSignature="gg/ho4/YKerv7gFuNVFQtjdGq47h6RCe3ak/FPrRMDO1oJnIpwVSwCBE1jFcF8AMPbTBgCocggmwSpyGVslzAw=="
+        length="1646979"
         type="application/octet-stream"/>
     </item>
   </channel>
