@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.5</title>
+      <pubDate>Sun, 19 Jul 2026 12:15:42 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.5 — color placement, not color mixing</h2>
+        <ul>
+          <li>Single-hue covers now keep their strongest native tone and gain one restrained split-complementary family; the reported earth-tone cover resolves to warm gold with muted slate blue</li>
+          <li>Waves places supporting and counterpoint colors in separate depths and moving materials instead of averaging them into olive or beige</li>
+          <li>Ambient, Bars, Halo, and Particles also use distinct color regions or populations, preserving coordinated contrast throughout motion</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.5.zip"
+        sparkle:version="17"
+        sparkle:shortVersionString="0.3.5"
+        sparkle:edSignature="pRwmMCLnn8Qfn9VvXDVmrovgaNta66x45S5t/5xs9iEvfaAqyQwquijJ8vdb6PS6syFNjKvwBQQY5C2Q9gHDAQ=="
+        length="1592364"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.4</title>
       <pubDate>Sun, 19 Jul 2026 12:04:36 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
