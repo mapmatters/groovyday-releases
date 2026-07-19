@@ -3,6 +3,25 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.0</title>
+      <pubDate>Sat, 19 Jul 2026 14:10:00 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.0 — the deep sea</h2>
+        <ul>
+          <li>Waves is no longer solid: five translucent wave trains stack like glass — you see the deeper sea through every crest, with subsurface glow, sinking light shafts, and inter-layer shading</li>
+          <li>Each depth layer listens to its own frequency register — treble shimmers far out, mids breathe in the middle distance, bass moves the near water — a stacked spectrum, like a MIDI visualizer made of ocean</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.0.zip"
+        sparkle:version="12"
+        sparkle:shortVersionString="0.3.0"
+        sparkle:edSignature="88b6b5KNWp/rXtCh+ISPtiVhweGQsoWhqU9XBzQDSsaryjMLi1x77Agfh3o5dGe3D+zu1ENwUPbKVVFOsXscDQ=="
+        length="1587794"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.9</title>
       <pubDate>Sat, 19 Jul 2026 13:30:00 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
