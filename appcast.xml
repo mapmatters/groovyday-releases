@@ -3,6 +3,26 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.3.6</title>
+      <pubDate>Sun, 19 Jul 2026 12:22:42 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.3.6 — particles that hear the music</h2>
+        <ul>
+          <li>Particles now maps bass to coherent near-field travel, mids to bending middle lanes, and treble to fine distant motion; the quiet baseline is calmer and less fuzzy</li>
+          <li>Strong hits launch two prominent streaking travelers, while secondary transients add smaller traffic—music changes motion and density, not just brightness</li>
+          <li>Desktop mode now uses Finder's real desktop-icon boundary on current macOS, fixing the window being placed nineteen layers beneath the wallpaper</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.3.6.zip"
+        sparkle:version="18"
+        sparkle:shortVersionString="0.3.6"
+        sparkle:edSignature="J84kIz5qY7PTI1cO7CGIY1QfKDU5++iOUWjPXd4DS/z0oaIXA3gsfcw2GK8buESOWY9+SNptrnKMHbjMSncxAQ=="
+        length="1593709"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.5</title>
       <pubDate>Sun, 19 Jul 2026 12:15:42 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
