@@ -3,24 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.3.8 beta (build 20)</title>
-      <pubDate>Sun, 19 Jul 2026 17:29:03 +0900</pubDate>
+      <title>0.3.9 beta (build 21)</title>
+      <pubDate>Sun, 19 Jul 2026 17:52:54 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.3.8 private beta</h2>
+        <h2>Groovyday 0.3.9 private beta</h2>
         <ul>
-          <li>Dock-wing Compact placement with automatic shrinking when Dock space is limited</li>
-          <li>Persistent Mode and Visualizer controls across Compact, Floating, Desktop, and Fullscreen</li>
+          <li>Automatic Compact placement now means the roomier left or right wing beside a bottom Dock</li>
+          <li>Fullscreen Mode and Visualizer controls now live inside the existing player HUD</li>
+          <li>Dock re-anchoring no longer accidentally saves an old corner placement</li>
           <li>Previous, play/pause, and next controls in Compact mode</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.3.8.zip"
-        sparkle:version="20"
-        sparkle:shortVersionString="0.3.8"
-        sparkle:edSignature="W2Zzw9U9TKUdheqZ/lTaVe5Eh4Hx2B1NrrBKiBxdEyWIYHS1pCDhNZSaBMIYdizHO0fUgZqLL/IIx/iVMsiRDA=="
-        length="1611715"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.3.9.zip"
+        sparkle:version="21"
+        sparkle:shortVersionString="0.3.9"
+        sparkle:edSignature="hHMwxv9iBkcJlRmh/Jyjm27gmmQd9NpRPT7WL/e31edvRNHpqEmQ9bVsOHbSunxWaWuSc2T9mCOZyuWXcdiiBg=="
+        length="1613636"
         type="application/octet-stream"/>
     </item>
   </channel>
