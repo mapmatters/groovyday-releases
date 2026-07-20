@@ -3,6 +3,27 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.5.0</title>
+      <pubDate>Tue, 21 Jul 2026 08:11:32 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Groovyday 0.5.0 — Wave 2</h2>
+        <ul>
+          <li>New Wave 2 visualizer: a hand-drawn flotilla of sloops, ferries, fishing boats, skiffs, and tugs</li>
+          <li>Boats naturally heave and pitch on the same layered wave field that draws the sea</li>
+          <li>Strong beats create short-lived swells, with calmer motion when playback stops</li>
+          <li>Refined visualizer styling, Dockscape controls, playback behavior, and app icon</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.5.0.zip"
+        sparkle:version="30"
+        sparkle:shortVersionString="0.5.0"
+        sparkle:edSignature="pLP/PR3/ZFZRyT6Ebu39JJpNhAQk7tWtv15Wf9GGVzUGYywmRJfgugUI2BszTSIdpUSyZiSH1DiV8iAt7MbQDg=="
+        length="1754740"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.3.7</title>
       <pubDate>Sun, 19 Jul 2026 12:27:30 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
