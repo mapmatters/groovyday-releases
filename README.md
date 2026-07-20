@@ -6,7 +6,7 @@ macOS system-audio music visualizer. It does not change the stable feed on
 
 **Download:** [Groovyday 0.4.7 beta DMG](releases/Groovyday-0.4.7.dmg)
 
-**Temporary feature test:** [YouTube + seek/artwork navigation DMG](releases/Groovyday-0.4.7-youtube-test.dmg)
+**Temporary UI fixes test:** [Visualizer menu + hover controls DMG](releases/Groovyday-0.4.7-ui-fixes-test.dmg)
 
 The current beta is Sparkle-signed but not yet Apple-notarized. It is intended
 only for the developer's own Macs while Developer ID enrollment is completed.
