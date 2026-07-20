@@ -3,25 +3,25 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
-      <title>0.4.7 beta (build 29)</title>
-      <pubDate>Mon, 20 Jul 2026 06:03:37 +0900</pubDate>
+      <title>0.5.0 beta (build 30)</title>
+      <pubDate>Tue, 21 Jul 2026 08:09:31 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Groovyday 0.4.7 private beta</h2>
+        <h2>Groovyday 0.5.0 private beta</h2>
         <ul>
-          <li>The synthetic 120-BPM preview is now restricted to onboarding and never masks real silence afterward</li>
-          <li>Every visualizer shares one calm idle state with only an eight-percent soft-wind motion floor</li>
-          <li>Paused or stalled audio releases the final beat instead of holding an energetic frame indefinitely</li>
-          <li>Wave breakers, particle travelers, and peak caps now settle cleanly when music stops</li>
+          <li>New Wave 2 visualizer: a hand-drawn flotilla of sloops, ferries, fishing boats, skiffs, and tugs</li>
+          <li>Boats naturally heave and pitch on the same layered wave field that draws the sea</li>
+          <li>Strong beats create short-lived swells, with calmer motion when playback stops</li>
+          <li>Refined visualizer styling, Dockscape controls, playback behavior, and app icon</li>
         </ul>
         <p>This is an opt-in development build for personal testing.</p>
       ]]></description>
       <enclosure
-        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.4.7.zip"
-        sparkle:version="29"
-        sparkle:shortVersionString="0.4.7"
-        sparkle:edSignature="gg/ho4/YKerv7gFuNVFQtjdGq47h6RCe3ak/FPrRMDO1oJnIpwVSwCBE1jFcF8AMPbTBgCocggmwSpyGVslzAw=="
-        length="1646979"
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.5.0.zip"
+        sparkle:version="30"
+        sparkle:shortVersionString="0.5.0"
+        sparkle:edSignature="qB4DPEQ6bLRXtWxj3ctLLhBiiDiY3yTCOdyffMPCvJJ5EG6O7Wdtyb9Hs6eWe1mDj8DUAiPjcI3Pniu8rbZIDA=="
+        length="1754741"
         type="application/octet-stream"/>
     </item>
   </channel>
