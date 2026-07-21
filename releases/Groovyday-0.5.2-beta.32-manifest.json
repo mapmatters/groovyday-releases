@@ -1,0 +1,20 @@
+{
+  "app" : "Groovyday",
+  "build" : "32",
+  "bundleIdentifier" : "app.groovyday.visualizer",
+  "channel" : "beta",
+  "dmg" : {
+    "file" : "Groovyday-0.5.2-beta.32.dmg",
+    "sha256" : "2179e77882f1c1b73065c75a846d79665c6bb46692478cf368746cb9aa9f3edb"
+  },
+  "notarized" : true,
+  "sparkle" : {
+    "edSignature" : "jhR2htSJPUNM90gXNh+zyIsNxMX6aYDWQpSDnweJhV9B8RMiUHM35hrpU1e5t3/VI1OQ8GKr/Qub4siJI44FCA==",
+    "length" : 1810984
+  },
+  "version" : "0.5.2",
+  "zip" : {
+    "file" : "Groovyday-0.5.2-beta.32.zip",
+    "sha256" : "dfed51fe0c47deba6d0040ac83bc8d4d9b04ae32e9612a7c9791ef99c7a902c1"
+  }
+}

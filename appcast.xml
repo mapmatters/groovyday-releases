@@ -3,6 +3,30 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
+      <title>0.5.2 beta (build 32)</title>
+      <pubDate>Tue, 21 Jul 2026 15:29:27 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>Groovyday 0.5.2 private beta</h2>
+        <ul>
+          <li>Wave 2 uses album-art-derived marker colors and adds more boats, ships, and children floating in tubes</li>
+          <li>Strong beats now create smooth shared-water swells; vessels remain attached to the surface instead of jumping independently</li>
+          <li>Wave 2 subjects are larger in Dockscape, with smoother Fullscreen rendering and motion</li>
+          <li>Particles fills Dockscape and Fullscreen with more widely distributed, full-width currents while keeping Compact uncluttered</li>
+          <li>Double-click Floating or Dockscape to enter Fullscreen; double-click Fullscreen to return to the previous mode</li>
+          <li>Ambient mode has more visible slow movement while retaining its calm character</li>
+        </ul>
+        <p>Focus testing on Wave 2 beat response, Particles distribution, mode round-trips, and Check for Updates on both the Mac mini and MacBook.</p>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.5.2-beta.32.zip"
+        sparkle:version="32"
+        sparkle:shortVersionString="0.5.2"
+        sparkle:edSignature="jhR2htSJPUNM90gXNh+zyIsNxMX6aYDWQpSDnweJhV9B8RMiUHM35hrpU1e5t3/VI1OQ8GKr/Qub4siJI44FCA=="
+        length="1810984"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.5.0 beta (build 30)</title>
       <pubDate>Tue, 21 Jul 2026 08:09:31 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
