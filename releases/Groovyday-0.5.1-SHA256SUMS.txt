@@ -1,0 +1,2 @@
+ed1b34437733aaf5b963dbcd85b9e63cbfe396b073f6ab90a4b81f6b389f0d6e  Groovyday-0.5.1.zip
+dcb33b0f6a74ed64ed7b7cededaa30be0f7170870100917696f0673b59caca05  Groovyday-0.5.1.dmg

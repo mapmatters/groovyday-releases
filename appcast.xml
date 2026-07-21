@@ -3,6 +3,27 @@
   <channel>
     <title>Groovyday</title>
     <item>
+      <title>0.5.1</title>
+      <pubDate>Tue, 21 Jul 2026 15:22:35 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>Groovyday 0.5.1 — Wave 2, refined</h2>
+        <ul>
+          <li>Wave 2 gains container ships, catamarans, and ocean liners alongside its original fleet</li>
+          <li>Wave 2 now follows each song's artwork palette and eases beat motion more smoothly</li>
+          <li>Ambient currents move more visibly while preserving their calm character</li>
+          <li>Double-clicking the Floating visualizer enters Fullscreen</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/main/releases/Groovyday-0.5.1.zip"
+        sparkle:version="31"
+        sparkle:shortVersionString="0.5.1"
+        sparkle:edSignature="PcAYvYDsgXVbW0Wj/Ny/1JaCU7fDe69PG9hWeXuhGWcjQAexMcZfQt7Ay+Qic/6o0lRYQLlNCpatJ6GVkj7WBg=="
+        length="1804766"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.5.0</title>
       <pubDate>Tue, 21 Jul 2026 08:11:32 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
