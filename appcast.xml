@@ -3,6 +3,44 @@
   <channel>
     <title>Groovyday Private Beta</title>
     <item>
+      <title>0.5.2 beta (build 38)</title>
+      <pubDate>Thu, 23 Jul 2026 00:04:51 +0900</pubDate>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<h2>Groovyday 0.5.2 private beta (build 38)</h2>
+        <ul>
+          <li>Particles now rescale their seeded field to the actual Dockscape width before the first frame, so they begin across the full scene instead of appearing center-born; their Dockscape material is also larger and more legible</li>
+          <li>Ambient now moves as a slower, directional wind field alongside Particles rather than a fast fly-through; Waves are lower-amplitude and more distant in both Dockscape and fullscreen</li>
+          <li>Skyline now takes a shared rhythmic lift from drums, Halo gains a supporting broken orbit, and Wave 2 varies its water-bound fleet from melody/detail so secondary subjects react without getting their own clocks</li>
+          <li>Dockscape is now the single windowed mode. The right wing has direct previous, random, next, and fullscreen controls; the left wing preserves artwork, title, artist, transport, and scrub information even in a narrow space</li>
+          <li>The entire Dockscape horizon is now a quiet resize target: hover anywhere along it to reveal a small local cue, drag to resize, or double-click to cycle Dock Wings → 1.5× → 2× → maximum → Dock Wings</li>
+          <li>The renderer is now organized around three reusable scene grammars — Vertical (Bars, Skyline, Halo), Wind (Ambient, Particles), and Wave (Waves, Wave 2)</li>
+          <li>Every scene declares a main musical actor plus secondary materials, so its primary motion reads first while supporting motion can enrich the scene without competing with it</li>
+          <li>Shared musical materials now include body, drums, beat, vocal, guitar, melody, and detail; vocal and guitar are intentionally stable spectral proxies for now, ready for a future audio classifier without rewriting scenes</li>
+          <li>The renderer now owns a smoothed display spectrum as well as the shared registers, so Bars, Skyline, and Halo use the same stable audio material instead of letting raw FFT frames reach their silhouettes</li>
+          <li>Master animation clocks are slew-limited, so no scene can tremble or speed-wobble on dense songs; Wave 2 contours and boats move as one broad body of water</li>
+          <li>Wave 2 rebuilt on the wave skeleton: beats become eased water energy, and strong onsets raise a single smooth swell with a cooldown instead of stacking</li>
+          <li>Waves and Wave 2 now build swells from shared bass envelopes and stored event energy; Wave 2 has a wider continuous sea response so boats and contours feel musical without vibration</li>
+          <li>New mode-aware stage mapping makes Dockscape a first-class presentation: the visible region above the real Dock is prioritized, while fullscreen and Dockscape share the same musical response grammar</li>
+          <li>Particles now fill Dockscape’s upper stage with larger, readable stars instead of clustering around the hidden center</li>
+          <li>Waves normalize their flow to screen width, so Dockscape no longer appears faster than fullscreen; every travelling breaker now enters from the left edge rather than popping into the middle</li>
+          <li>Wave 2 has a more energetic continuous water passage and lifts its fleet into Dockscape’s visible region; Ambient now has a coherent wind direction and music-driven gusts</li>
+          <li>Ambient gusts now travel continuously with no mid-scene reset; Particles begin across the full stage immediately in every mode and keep five persistent currents</li>
+          <li>Waves now share the same perspective geometry in fullscreen and Dockscape. Dockscape is slower only in time, while fullscreen’s smaller surface reads as more distant</li>
+          <li>Bars is unchanged in feel; its constants are the reference tuning for the new engine</li>
+          <li>Idle behavior is now identical everywhere: the same soft-wind baseline, settle timing, and instant wake on audio</li>
+        </ul>
+        <p>Focus testing on first-frame composition and interaction: Particles should already occupy the full width in Dockscape; Ambient should read as slower wind, not a fast camera flight; Waves should feel more distant; and the full Dockscape horizon should resize or height-cycle without entering fullscreen.</p>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mapmatters/groovyday-releases/beta/releases/Groovyday-0.5.2-beta.38.zip"
+        sparkle:version="38"
+        sparkle:shortVersionString="0.5.2"
+        sparkle:edSignature="poRhl7/e0ERxpXiO/8LnT/ffHuQE3ZzKrMwR5OZ7tvEz4dhQq0U03zAi4plqneWV7u3aEGaEKmsgRRakBXeNCA=="
+        length="1822637"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.5.2 beta (build 37)</title>
       <pubDate>Wed, 22 Jul 2026 22:09:12 +0900</pubDate>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>

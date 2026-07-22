@@ -1,0 +1,2 @@
+f90af674beccb8c48d3ad0ba69529a10774f22f2df51b44bc0173f13f54ec475  Groovyday-0.5.2-beta.38.zip
+6d875d005984657eb9795e02cfca07e719dad720eeca7bf9612a45bc758cac94  Groovyday-0.5.2-beta.38.dmg
